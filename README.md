@@ -21,7 +21,7 @@ CyberMax AI DJ lets you control your broadcasting radio station and run songs or
 
 ## Hardware You Will Need
 
-* An STMAX FM radio transmitter board with audio inputs and serial (TTL) interface
+* An STMAX FM radio transmitter board with audio inputs and serial (TTL) interface: https://www.pcs-electronics.com/shop/rf-accesories-for-transmitters/radio-kits/stmax9015-9025-9050-9075-stereo-rds-exciter/
 * An audio HAT board with audio DAC 5V DC-DC converter
 * A Raspberry PI computer, like RPI4
 
