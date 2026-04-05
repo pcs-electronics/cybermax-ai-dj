@@ -1,17 +1,17 @@
 # CyberMax AI DJ
 
-Control your radio transmitter via text chat.
-
 CyberMax AI DJ lets you control your broadcasting radio station and run songs or audio streams from anywhere via your preferred messenger.
 
 ![c02ea57d-2049-4fa9-a011-2c8b20d200ad](images/c02ea57d-2049-4fa9-a011-2c8b20d200ad.png)
 
 ## Examples
 
+```
 * Set the transmitter frequency to eighty-seven point five mhz
 * Set RDS text to "I love you!"
 * Play an Internet audio stream about the firefighters
 * Stop the playback
+```
 
 ## What It Does
 
@@ -46,14 +46,15 @@ Other combinations of radio transmitters and computers will work fine as well.
 
 Query: add first found web stream about river to the play queue  
 Response:  
+```
 The first web radio stream found, "The River", has been added to the play queue and playback has started.  
 Would you like to add any other items or perform another action?
+```
 
 Query: what is the current play list?  
 Response:  
-The current play queue contains the following items:
-
 ```
+The current play queue contains the following items:
 Magnifico - Pegica (Official Video) - 2.mp3
     Artist: Magnifico
     Album: Magnifico
@@ -61,11 +62,10 @@ Magnifico - Pegica (Official Video) - 2.mp3
 
 The River
     Web Radio Stream
+Would you like to modify the queue or perform another action?
 ```
 
-Would you like to modify the queue or perform another action?
-
-## Images
+## Screenshots
 
 ![Screenshot from 2026-04-05 13-54-53](images/Screenshot%20from%202026-04-05%2013-54-53.png)
 ![viber_image_2026-04-03_09-26-23-101](images/viber_image_2026-04-03_09-26-23-101.jpg)
@@ -74,7 +74,3 @@ Would you like to modify the queue or perform another action?
 ![viber_image_2026-04-03_19-25-53-950](images/viber_image_2026-04-03_19-25-53-950.jpg)
 ![viber_image_2026-04-03_19-32-26-819](images/viber_image_2026-04-03_19-32-26-819.jpg)
 ![viber_image_2026-04-03_19-38-01-527](images/viber_image_2026-04-03_19-38-01-527.jpg)
-
-## License
-
-MIT License. See [LICENSE](/home/dn/WORK/PALLETS/STMAX9100-QN8007/cybermax-ai-dj/LICENSE).
