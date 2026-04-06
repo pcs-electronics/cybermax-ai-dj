@@ -2,9 +2,11 @@
 
 CyberMax AI DJ lets you control your broadcasting radio station and run songs or audio streams from anywhere via your preferred messenger.
 
+Chat with your transmitter with free software and with zero subscription cost!
+
 ![c02ea57d-2049-4fa9-a011-2c8b20d200ad](images/c02ea57d-2049-4fa9-a011-2c8b20d200ad.png)
 
-## Examples
+## Examples of use
 
 ```
 * Set the transmitter frequency to eighty-seven point five mhz
