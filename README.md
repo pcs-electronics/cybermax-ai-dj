@@ -32,16 +32,27 @@ Other combinations of radio transmitters and computers will work fine as well.
 ## Workflow
 
 1. Install Volumio from https://volumio.com/
+
    Enable SSH access to the computer (Google for instructions)
+
    Enable the hardware serial port of the RPI device (Google for instructions)
+
 2. Install an AI agent, such as Zeroclaw https://zeroclaw.org/
+
    Try to figure out what an AI agent is and how it works
+
    Configure AI provider and model (such as a free `mistralai/devstral-2-123b-instruct-2512` model via build.nvidia.com)
+
    Configure channel, such as a Telegram bot
+
 3. Visit the https://github.com/pcs-electronics/stmax-config and https://github.com/pcs-electronics/volumio-control pages
+
    Copy `stmax-config.py` and `volumio-control.py` scripts to the workspace folder of your AI agent program
+
    Copy the `/skills/stmax-control/` and `/skills/volumio-control/` folders into the appropriate `/skills/` folder of your AI agent
+
 4. Interconnect your hardware and apply power
+
 5. Run your AI agent and set your transmitter's frequency, power, and run Internet audio streams or local files
 
 ## Real Queries
