@@ -53,6 +53,8 @@ Other combinations of radio transmitters and computers will work fine as well.
 
 4. Interconnect your hardware and apply power
 
+   Do not forget to add a resistor divider, such as 1.6K+3K in the serial port connection, since RPI is not 5V tolerant!
+
 5. Run your AI agent and set your transmitter's frequency, power, and run Internet audio streams or local files
 
 ## Real Queries
@@ -81,9 +83,15 @@ Would you like to modify the queue or perform another action?
 ## Screenshots
 
 ![Screenshot from 2026-04-05 13-54-53](images/Screenshot%20from%202026-04-05%2013-54-53.png)
+
 ![viber_image_2026-04-03_09-26-23-101](images/viber_image_2026-04-03_09-26-23-101.jpg)
+
 ![viber_image_2026-04-03_19-15-13-206](images/viber_image_2026-04-03_19-15-13-206.png)
+
 ![viber_image_2026-04-03_19-16-43-291](images/viber_image_2026-04-03_19-16-43-291.png)
+
 ![viber_image_2026-04-03_19-25-53-950](images/viber_image_2026-04-03_19-25-53-950.jpg)
+
 ![viber_image_2026-04-03_19-32-26-819](images/viber_image_2026-04-03_19-32-26-819.jpg)
+
 ![viber_image_2026-04-03_19-38-01-527](images/viber_image_2026-04-03_19-38-01-527.jpg)
